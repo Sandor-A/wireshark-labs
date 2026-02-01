@@ -21,3 +21,7 @@ The notes are based on lab practice and continuous learning (including TryHackMe
 
 ## Disclaimer
 All content is for educational and defensive purposes only.
+## Included
+- Analysis write-ups
+- Screenshots
+- Conclusions
