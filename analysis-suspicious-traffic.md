@@ -63,3 +63,9 @@ Recommended follow-up actions include:
 
 ## Notes
 This analysis was conducted for learning and defensive purposes as part of SOC Level 1 training.
+### SYN Packet Review
+![SYN Packets](screenshots/syn-packets.png)
+
+### Non-Standard Ports
+![Non-Standard Ports](screenshots/non-standard-ports.png)
+
