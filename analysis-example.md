@@ -44,3 +44,9 @@ For deeper analysis, future steps could include:
 
 ## Notes
 This analysis was performed for learning and defensive purposes as part of SOC Level 1 training.
+### Protocol Overview
+![Protocol Hierarchy](screenshots/protocol-hierarchy.png)
+
+### DNS Traffic
+![DNS Traffic](screenshots/dns-traffic-filter.png)
+
